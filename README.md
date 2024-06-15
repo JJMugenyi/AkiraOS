@@ -1,6 +1,6 @@
 # AkiraOS
 
-![AkiraOS Logo](documents/logos/AkiraOS.png)
+![image](https://github.com/JJMugenyi/AkiraOS/assets/62541664/060c4303-274e-47d9-8dce-07ae868afb05)
 
 ## Introduction
 
