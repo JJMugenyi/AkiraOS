@@ -47,25 +47,31 @@ make
 
 This will compile the source code and create the necessary binaries.
 
-Running AkiraOS
+## Running AkiraOS
 You can run AkiraOS using QEMU for testing:
 
 ```bash
 qemu-system-x86_64 -kernel bin/akiraos.bin
 ```
 
-Contribution Guidelines
+## Contribution Guidelines
 
 We welcome contributions from the community! Please read the following guidelines before contributing:
 
-Code of Conduct: Please read and adhere to our Code of Conduct.
-Contributing: Check out our Contributing Guidelines to get started.
+Code of Conduct: Please read and adhere to our [Code of Conduct](CODE_OF_CONDUCT.md).
+
+
+Contributing: Check out our [Contributing Guidelines](CONTRIBUTING.md) to get started.
+
+
 Issues: Feel free to submit issues for bugs, enhancements, or suggestions.
-License
 
-AkiraOS is licensed under the MIT License. See the LICENSE file for more information.
 
-Contact
+## License
+
+AkiraOS is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+
+## Contact
 
 For any questions or suggestions, feel free to open an issue on GitHub or contact us directly.
 
