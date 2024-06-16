@@ -19,6 +19,47 @@ AkiraOS is in the early stages of development. Here's what we have so far:
 - Basic project structure
 - Preliminary bootloader
 
+## Roadmap
+
+AkiraOS aims to be a beginner-friendly and educational operating system focused on teaching fundamental OS concepts. The project's roadmap is designed to gradually build up the core functionality while prioritizing simplicity and learning opportunities. Here's an overview of the planned milestones:
+
+1. **Core Kernel Functionality**
+   - Implement essential kernel components (memory management, process scheduling, interrupt handling)
+   - Establish a minimal but functional kernel demonstrating basic OS concepts
+
+2. **Bootloader and Boot Process**
+   - Develop a simple bootloader to load the kernel into memory
+   - Implement the boot process and establish the necessary environment for the OS
+
+3. **Basic I/O and Device Drivers**
+   - Implement basic input/output (I/O) functionality (console output, keyboard input)
+   - Create simple device drivers for common hardware components (timers, serial ports, disk interfaces)
+
+4. **File System Support**
+   - Implement a basic file system
+   - Allow users to store and retrieve files on simulated or physical storage devices
+
+5. **User Programs and System Calls**
+   - Introduce the ability to run simple user programs
+   - Provide system call interfaces for programs to interact with kernel services
+
+6. **Documentation and Learning Resources**
+   - Develop comprehensive documentation, tutorials, and learning materials
+   - Guide users through understanding and modifying the OS code
+   - Include code walkthroughs, explanations of key concepts, and hands-on exercises
+
+7. **Community Engagement**
+   - Foster an active community of learners and contributors
+   - Establish communication channels (forums, mailing lists, chat platforms)
+   - Encourage collaboration and knowledge sharing
+
+8. **Potential Extensions (Optional)**
+   - Outline potential future extensions or advanced features (GUI, networking, additional hardware architectures)
+   - These should be considered optional and not the primary focus of the educational OS
+
+The roadmap is subject to change based on community feedback and contributions. The core focus will remain on creating a simple, well-documented, and accessible learning platform for operating system development.
+
+
 ## Getting Started
 
 ### Prerequisites
